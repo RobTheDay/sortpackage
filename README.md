@@ -25,3 +25,6 @@ The following functions can be found within sorting.py:
 
 ## Updating this package from GitHub
 `pip install --upgrade git+https://github.com/RobTheDay/sortpackage.git`
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
