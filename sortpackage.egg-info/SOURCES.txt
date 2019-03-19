@@ -1,0 +1,10 @@
+README.md
+setup.py
+sortpackage/__init__.py
+sortpackage/recursion.py
+sortpackage/sorting.py
+sortpackage.egg-info/PKG-INFO
+sortpackage.egg-info/SOURCES.txt
+sortpackage.egg-info/dependency_links.txt
+sortpackage.egg-info/requires.txt
+sortpackage.egg-info/top_level.txt
